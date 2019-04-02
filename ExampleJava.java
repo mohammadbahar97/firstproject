@@ -7,6 +7,7 @@ public void print()
 {
 System.out.println("This is Example for Java");
 System.out.println("Edit by mohammad bahhar");
+System.out.println("Editing by anas khdeer abara");
 }
 }
 }
